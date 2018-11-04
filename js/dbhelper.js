@@ -12,7 +12,7 @@ class DBHelper {
     
     if(isHosted){
     	console.log(window.location.hostname);
-    	return `https://pallavi16.github.io/Restaurant Review/data/restaurants.json`
+    	return `https://pallavi16.github.io/Restaurant-Review/data/restaurants.json`
     }
     return `http://localhost:${port}/data/restaurants.json`;
   }
