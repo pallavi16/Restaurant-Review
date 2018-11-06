@@ -20,7 +20,7 @@ To get this code on your machine, use one of the 2 options below:
 
 Now, to run it from the terminal directly, python if required:
 - Using Terminal enter into project directory
-- In the terminal, check the version of Python you have: ## python -V.
+- In the terminal, check the version of Python you have: python -V.
 - To run it with either of the Python versions:
   - If you have Python 2.x, spin up the server with "python -m SimpleHTTPServer 3000" (or some other port, if port 3000 is already in use.)
   - For Python 3.x, you can use python -m http.server 3000.
