@@ -9,7 +9,7 @@ This repo contains the code that modifies the webpage and provides great feature
 - Presence of ServiceWorker Script so as to make it work offline (when the internet connection is poor or not working.)
 
 
-Live demo: https://pallavi16.github.io/Restaurant-Review/ 
+### Live demo: https://pallavi16.github.io/Restaurant-Review/ 
 
 ## Running/Testing your code on your machine:
 
