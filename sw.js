@@ -1,3 +1,6 @@
+/**
+ * SERVICE WORKER IMPLEMENTATION 
+ */
 var staticCacheName = 'mws-static-v1';
 /**
  * Install Service worker and cache all pages and assets required for offline access
